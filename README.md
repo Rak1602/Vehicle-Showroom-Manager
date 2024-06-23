@@ -1,0 +1,1 @@
+This is a DBMS Project. The interface is for Vehicle Showroom Management. The Interface is built using the concepts of HTML, CSS, PHP, JS. The SQL is used to store and manipulate the data. This can be used as a base for other projects also. 
